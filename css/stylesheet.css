@@ -1,6 +1,9 @@
 .heading {
     color: red;
-}
-#paris_paragraph {
+    }
+.paris_paragraph {
     background-color: beige;
+    }
+#london_heading {
+    background-color: pink;
 }
