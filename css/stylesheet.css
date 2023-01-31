@@ -10,3 +10,14 @@
 html {
     scroll-behavior: smooth;
 }
+
+#lorem_ipsum_span {
+    padding-left: 5px;
+    padding-right: 5px;
+    border-top: 2px solid black;
+    border-bottom: 4px solid gray;
+}
+#lorem_ipsum_paragraph {
+    border: 10px lightgreen ridge;
+    margin: 5px;
+}
